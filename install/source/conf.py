@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Installation Guide'
-copyright = '2022 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '2023 - Logical Microsystems All Rights Reserved'
+author = 'Logical Microsystems'
 
-prodname = 'CentreStack'
+prodname = 'LogiCloud'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 # The version info for the project you're documenting, acts as replacement for
