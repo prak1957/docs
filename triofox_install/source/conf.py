@@ -52,8 +52,8 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Installation Guide'
-copyright = '2020, Gladinet, Inc.'
-author = 'Gladinet, Inc.'
+copyright = '2023, Logical Microsystems'
+author = 'Logical Microsystems'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
