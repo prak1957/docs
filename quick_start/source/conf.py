@@ -48,8 +48,8 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Quick Start Guide'
-copyright = '2023 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '2023 - Logical Microsystems All Rights Reserved'
+author = 'Logical Microsystems'
 
 
 # The version info for the project you're documenting, acts as replacement for
