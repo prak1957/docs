@@ -48,9 +48,9 @@ source_suffix = '.rst'
 master_doc = 'content'
 
 # General information about the project.
-project = 'Hosted CentreStack Admin Guide'
-copyright = '2022 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+project = 'Hosted LogiCloud Admin Guide'
+copyright = '2022 - Logical Microsystems All Rights Reserved'
+author = 'Logical Microsystems'
 
 # TR Edit
 # The following variables weren't working as a pair as replacements, not sure how to code this, so I've commented them out and directly replaced them below.
