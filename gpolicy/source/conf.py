@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Group Policy Settings'
-copyright = '2022 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+copyright = '2022 - Logical Microsystems All Rights Reserved'
+author = 'Logical Microsystems'
 
 # The short X.Y version
 version = ''
