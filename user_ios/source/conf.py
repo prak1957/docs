@@ -49,9 +49,9 @@ source_suffix = '.rst'
 master_doc = 'contents'
 
 # General information about the project.
-project = 'CentreStack iOS User Guide'
-copyright = '2022 - Gladinet, Inc. All Rights Reserved'
-author = 'Gladinet, Inc.'
+project = 'LogiCloud iOS User Guide'
+copyright = '2023 - Logical Microsystems All Rights Reserved'
+author = 'Logical Microsystems'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
